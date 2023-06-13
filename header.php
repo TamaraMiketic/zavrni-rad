@@ -12,6 +12,6 @@
 <div class="blog-header">
      <div>
           <h1 class="blog-title">Srpski kuvar</h1>
-          <p class="lead blog-description"></p>
+          <p class="lead blog-description">online recepti</p>
      </div>
 </div>
